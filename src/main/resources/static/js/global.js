@@ -1,3 +1,5 @@
+
+
 window.alert = function(message) {
 	if(!$(".alert-box").length) {
 		$("body").append(
